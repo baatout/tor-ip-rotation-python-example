@@ -1,6 +1,9 @@
 # Tor IP Rotation in Python
 A simple Python script that requests new IPs from the Tor network.
 
+Article:
+https://medium.com/@amine.btt/a-crawler-that-beats-bot-detection-879888f470eb
+
 Adapted from:
 - *"[Crawling anonymously with Tor in Python](http://sacharya.com/crawling-anonymously-with-tor-in-python/)" by S. Acharya, Nov 2, 2013.*
 - *[PyTorStemPrivoxy](https://github.com/FrackingAnalysis/PyTorStemPrivoxy) repo of [FrackingAnalysis](https://github.com/FrackingAnalysis)*
